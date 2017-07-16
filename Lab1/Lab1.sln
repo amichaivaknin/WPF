@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAMLLab1", "XAMLLab1\XAMLLab1.csproj", "{4027BAEA-99F1-4EC8-A3AC-F75C5991C5F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAMLLab2", "XAMLLab2\XAMLLab2.csproj", "{DB4CACD2-A8C8-4ACA-A701-492E4785CF87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnhandledExceptions", "UnhandledExceptions\UnhandledExceptions.csproj", "{A38D19AC-1A5C-4FAF-9E50-224A8162A784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4027BAEA-99F1-4EC8-A3AC-F75C5991C5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4027BAEA-99F1-4EC8-A3AC-F75C5991C5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4027BAEA-99F1-4EC8-A3AC-F75C5991C5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4027BAEA-99F1-4EC8-A3AC-F75C5991C5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB4CACD2-A8C8-4ACA-A701-492E4785CF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4CACD2-A8C8-4ACA-A701-492E4785CF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4CACD2-A8C8-4ACA-A701-492E4785CF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4CACD2-A8C8-4ACA-A701-492E4785CF87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38D19AC-1A5C-4FAF-9E50-224A8162A784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38D19AC-1A5C-4FAF-9E50-224A8162A784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38D19AC-1A5C-4FAF-9E50-224A8162A784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38D19AC-1A5C-4FAF-9E50-224A8162A784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
